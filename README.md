@@ -1,3 +1,5 @@
+Dummy change to force the CI to run
+
 # Pharo VM
 
 This is the main branch of the Pharo VM.
